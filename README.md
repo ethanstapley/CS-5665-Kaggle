@@ -38,3 +38,6 @@ This repository uses a personal pre-trained BERT model for toxicity scoring.
 
 Download or use it directly from Kaggle:  
 https://www.kaggle.com/models/ethanstapley/bert-toxic-epoch1/
+
+Acknowledgement:
+Some portions of the code in this project were generated or assisted by ChatGPT. This was used to accelerate development and ensure correctness. All generated code was reviewed, tested, and had human oversight.
